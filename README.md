@@ -1,7 +1,6 @@
 # edX-Visualization
 
-Site Page
-https://bruns87.github.io/edX-Visualization/
+Site Page https://bruns87.github.io/edX-Visualization/
 
 Sum of Years of Experience in Data Visualization by Occupation with Minimum years in School. See details for data values.
 
